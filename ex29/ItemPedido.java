@@ -7,9 +7,6 @@ package trabalhofinal.ex29;
  *      Welder Antônio de Moraes
 */
 
-import java.util.ArrayList;
-import java.util.List;
-
 class ItemPedido {
     private Produto produto;
     private int quantidade;

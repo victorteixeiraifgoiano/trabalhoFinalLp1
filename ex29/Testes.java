@@ -7,9 +7,6 @@ package trabalhofinal.ex29;
  *      Welder Antônio de Moraes
 */
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Testes {
     public static void main(String[] args) {
 

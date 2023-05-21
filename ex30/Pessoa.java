@@ -1,5 +1,3 @@
-package trabalhofinal.ex30;
-
 /* 
  * Alunos:
  *      Stéphany Lima Vital
@@ -7,7 +5,7 @@ package trabalhofinal.ex30;
  *      Welder Antônio de Moraes
 */
 
-class Pessoa {
+public class Pessoa {
     private String nome;
     private int idade;
     private Pessoa pai;
@@ -34,5 +32,21 @@ class Pessoa {
 
     public Pessoa getMae() {
         return mae;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setIdade(int idade) {
+        this.idade = idade;
+    }
+
+    public void setPai(Pessoa pai) {
+        this.pai = pai;
+    }
+
+    public void setMae(Pessoa mae) {
+        this.mae = mae;
     }
 }

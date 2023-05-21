@@ -1,13 +1,12 @@
-package trabalhofinal.ex30;
-
 /* 
  * Alunos:
  *      Stéphany Lima Vital
  *      Víctor Emannuel de Souza Teixeira
  *      Welder Antônio de Moraes
 */
+package trabalhofinal.ex30;
 
-public class Testes {
+public class Teste {
     public static void main(String[] args) {
         Pessoa pai = new Pessoa("João", 40, null, null);
         Pessoa mae = new Pessoa("Maria", 38, null, null);

@@ -7,9 +7,6 @@ package trabalhofinal.ex29;
  *      Welder Antônio de Moraes
 */
 
-import java.util.ArrayList;
-import java.util.List;
-
 class Cliente {
     private String nome;
     private String endereco;
