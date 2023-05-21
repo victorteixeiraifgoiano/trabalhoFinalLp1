@@ -1,4 +1,3 @@
-package trabalhofinal.ex29;
 
 /* 
  * Alunos:

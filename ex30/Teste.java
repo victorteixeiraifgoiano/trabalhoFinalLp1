@@ -4,7 +4,6 @@
  *      Víctor Emannuel de Souza Teixeira
  *      Welder Antônio de Moraes
 */
-package trabalhofinal.ex30;
 
 public class Teste {
     public static void main(String[] args) {
